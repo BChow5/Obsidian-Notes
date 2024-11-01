@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "30df65b04bf0069b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b071d748d08ac20",
+        "type": "tabs",
+        "dimension": 77.34113712374582,
+        "children": [
+          {
+            "id": "c3ec1a3a936ec1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACIT 2620 - Networking/Lectures/Lecture 6 - IPv4 Subnetting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 6 - IPv4 Subnetting"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6cb0d7a5dc862f1f",
+        "type": "tabs",
+        "dimension": 22.65886287625418,
+        "children": [
+          {
+            "id": "106aafeb5e29658f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "General To Do List.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "General To Do List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82578464cb59ea82",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb27bb7fe275921b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2708f94a96732cdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fff8a60fda1bde88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "02326816127505d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4ecbf8ebfef5a50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "48628a1e10458db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bb9894889a5cec0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ACIT 2515 - Obj Programming/Midterm Cheat sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Midterm Cheat sheet"
+            }
+          },
+          {
+            "id": "2d855c1b2f763ff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ACIT 2515 - Obj Programming/Midterm Cheat sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Midterm Cheat sheet"
+            }
+          },
+          {
+            "id": "653ac75ff5ada0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7d04d53b6e9fe9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ACIT 2515 - Obj Programming/Midterm Cheat sheet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Midterm Cheat sheet"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 531.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "c3ec1a3a936ec1bf",
+  "lastOpenFiles": [
+    "ACIT 2620 - Networking/Lectures/Lecture 5 - IPv4.md",
+    "ACIT 2620 - Networking/Lectures/Lecture 6 - IPv4 Subnetting.md",
+    "ACIT 2420 - Linux/Lectures/Lecture 7 - Bash Functions and Case Statements.md",
+    "ACIT 2420 - Linux/Lectures/Lecture 6 - Bash and Scripts.md",
+    "ACIT 2420 - Linux/Lectures/Lab 7.md",
+    "Math 1350/Lectures/Lecture 8 - Sampling Distribution and CLT.md",
+    "Pasted image 20241101100731.png",
+    "Pasted image 20241101100720.png",
+    "Math 1350/Lectures/Lecture 7 - Binomial Distribution.md",
+    "ACIT 2420 - Linux/Lectures/Lecture 9 - sftp.md",
+    "ACIT 2831 - Bus System/Lectures/Lecture 9.md",
+    "COMM 2216/Lectures/Lecture 9 - proposals.md",
+    "General To Do List.md",
+    "COMM 2216/Lectures/Untitled",
+    "ACIT 2420 - Linux/Readings/Reading 6 - Bash Shell Scripting Part 2.md",
+    "ACIT 2420 - Linux/Readings/Reading 5 - Bash Shell Scripting.md",
+    "images/Pasted image 20241024171826.png",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 9.md",
+    "ACIT 2520 - Web Dev/Lectures/Midterm after review.md",
+    "ACIT 2520 - Web Dev/Midterm Study.md",
+    "ACIT 2515 - Obj Programming/Midterm Cheat sheet.md",
+    "ACIT 2515 - Obj Programming/Lectures/Lecture 6.md",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 1 - The Big Picture.md",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 7 - Mid Term Review.md",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 4.md",
+    "images/Pasted image 20241024174138.png",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 2.md",
+    "images/Pasted image 20241024171840.png",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 5 - Streams.md",
+    "ACIT 2520 - Web Dev/Untitled.md",
+    "images/Pasted image 20241023155718.png",
+    "Untitled.md",
+    "Python Study List.md",
+    "ACIT 2515 - Obj Programming/Test Study",
+    "images/Pasted image 20241023191307.png",
+    "images/Pasted image 20241023171908.png",
+    "images/Pasted image 20241023171836.png",
+    "images/Pasted image 20241023171832.png",
+    "ACIT 2420 - Linux/Assignment1/Assets",
+    "ACIT 2420 - Linux/Assignment1",
+    "ACIT 2520 - Web Dev/Readings",
+    "Command Line Basics",
+    "ACIT 2620 - Networking/Readings",
+    "ACIT 2620 - Networking/Lectures",
+    "ACIT 2620 - Networking",
+    "Math 1350/Lectures",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,31 @@
+- Router
+	- layer 3 device that can make forwarding decisions based on logical addresses (e.g. Ip address)
+- Wide Area Network WAN
+	- a network connection that interconnects geographically separate networks
+- VPN Virtual Private Network
+	- allows a secure connection to be setup over an untrusted network 
+- Ethernet Switch
+	- a layer 2 device that makes forwarding decisions based on a physical addresses (i.e. MAC addresses) 
+- Network Interface Card NIC
+	- a card inside of a networked device that allows the device to communicate on a network 
+- Media Access Control (MAC) Address
+	- a 48 bit address burned into an NIC, typically written in hexadecimal  
+	- switches build a MAC address table inside of itself 
+		- list of port and MAC addresses 
+- Intrusion Prevention System IPS
+	- a sensor that sits in line with network traffic, can recognize the signature of well known attacks and can stop them 
+- Intrusion Detection System IDS
+	- a sensor that receives a copy of network traffic, can recognize the signature of well known attacks, and can stop the attacks 
+- Firewall
+	- device uses a set of rules to determine what traffic to permit or deny between different portions of a network 
+- demilitarized zone DMZ
+	- the term typically given to a portion of a network that should be accessible by external devices 
+- firewall router
+	- router configured to perform firewall duties 
+- multilayer switch
+	- an ethernet switch that can make forwarding decisions based on layer 3 (and higher) information (e.g. IP addresses) like a router, and can also make decision based on layer 2 information like a layer 2 ethernet switch
+		- can do things of both a router and a switch 
+- cache engine
+	- locally stores content retrieved from a remote network and sends that content to local devices requesting that content to save bandwidth 
+- network attached storage device NAS device
+	- a network appliance that makes storage resources available to network clients 
