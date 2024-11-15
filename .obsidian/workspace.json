@@ -4,50 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b071d748d08ac20",
-        "type": "tabs",
-        "dimension": 77.34113712374582,
-        "children": [
-          {
-            "id": "c3ec1a3a936ec1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACIT 2620 - Networking/Lectures/Lecture 6 - IPv4 Subnetting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - IPv4 Subnetting"
-            }
-          }
-        ]
-      },
-      {
         "id": "6cb0d7a5dc862f1f",
         "type": "tabs",
-        "dimension": 22.65886287625418,
         "children": [
           {
             "id": "106aafeb5e29658f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "General To Do List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Math 1350/Lectures/Lecture 9 - Hypothesis Testing (One Mean).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "General To Do List"
+              "icon": "lucide-file",
+              "title": "Lecture 9 - Hypothesis Testing (One Mean)"
             }
           }
         ]
@@ -193,46 +164,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c3ec1a3a936ec1bf",
+  "active": "106aafeb5e29658f",
   "lastOpenFiles": [
-    "ACIT 2620 - Networking/Lectures/Lecture 5 - IPv4.md",
-    "ACIT 2620 - Networking/Lectures/Lecture 6 - IPv4 Subnetting.md",
+    "Pasted image 20241114204346.png",
+    "Pasted image 20241114204329.png",
+    "Pasted image 20241114195023.png",
+    "Pasted image 20241114193942.png",
+    "Math 1350/Lectures/Lecture 8 - Sampling Distribution and CLT.md",
+    "Math 1350/Lectures/Lecture 9 - Hypothesis Testing (One Mean).md",
+    "ACIT 2831 - Bus System/Lectures/Week 11 - Business Process Management, Data, and Process Modeling.md",
+    "ACIT 2620 - Networking/Lectures/Lecture 9 - IPv6.md",
+    "Math 1350/Formula Sheet.md",
+    "Math 1350/Lectures/Lecture 6 - Normal Distribution.md",
+    "Math 1350/Lectures/Lecture 7 - Binomial Distribution.md",
+    "ACIT 2420 - Linux/Lectures/Lecture 11 - Pacman and Systemd.md",
+    "Pasted image 20241112150817.png",
+    "ACIT 2420 - Linux/Readings/Reading 8- Pacman.md",
+    "ACIT 2420 - Linux/Readings/Reading 8- systemd and Timers.md",
+    "ACIT 2420 - Linux/API token.md",
+    "images/Pasted image 20241111192452.png",
+    "images/Pasted image 20241111194059.png",
+    "images/Pasted image 20241111192700.png",
+    "images/Pasted image 20241111192618.png",
+    "General To Do List.md",
+    "ACIT 2420 - Linux/Readings/Reading 7 -Understanding Systemd Units and Unit Files.md",
+    "ACIT 2420 - Linux/Midterm Study.md",
+    "images/Pasted image 20241108154426.png",
+    "images/Pasted image 20241108151805.png",
+    "ACIT 2831 - Bus System/Lectures/Lecture 10 - Development of Acquisition Strategies.md",
+    "ACIT 2831 - Bus System/Lectures/Lecture 7 - Midterm Review.md",
+    "ACIT 2831 - Bus System/Lectures/Lecture 9.md",
+    "ACIT 2420 - Linux/Readings/Reading 7 - How To Use Systemctl to Manage Systemd Services and Units.md",
+    "ACIT 2420 - Linux/Lectures/Lecture 10 - Systemctl,.md",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 10 -.md",
+    "ACIT 2520 - Web Dev/Lectures/Lecture 9.md",
+    "ACIT 2520 - Web Dev/Readings/Week 9 Notes.md",
     "ACIT 2420 - Linux/Lectures/Lecture 7 - Bash Functions and Case Statements.md",
     "ACIT 2420 - Linux/Lectures/Lecture 6 - Bash and Scripts.md",
-    "ACIT 2420 - Linux/Lectures/Lab 7.md",
-    "Math 1350/Lectures/Lecture 8 - Sampling Distribution and CLT.md",
-    "Pasted image 20241101100731.png",
-    "Pasted image 20241101100720.png",
-    "Math 1350/Lectures/Lecture 7 - Binomial Distribution.md",
     "ACIT 2420 - Linux/Lectures/Lecture 9 - sftp.md",
-    "ACIT 2831 - Bus System/Lectures/Lecture 9.md",
-    "COMM 2216/Lectures/Lecture 9 - proposals.md",
-    "General To Do List.md",
     "COMM 2216/Lectures/Untitled",
-    "ACIT 2420 - Linux/Readings/Reading 6 - Bash Shell Scripting Part 2.md",
-    "ACIT 2420 - Linux/Readings/Reading 5 - Bash Shell Scripting.md",
-    "images/Pasted image 20241024171826.png",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 9.md",
-    "ACIT 2520 - Web Dev/Lectures/Midterm after review.md",
-    "ACIT 2520 - Web Dev/Midterm Study.md",
-    "ACIT 2515 - Obj Programming/Midterm Cheat sheet.md",
-    "ACIT 2515 - Obj Programming/Lectures/Lecture 6.md",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 1 - The Big Picture.md",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 7 - Mid Term Review.md",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 4.md",
-    "images/Pasted image 20241024174138.png",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 2.md",
-    "images/Pasted image 20241024171840.png",
-    "ACIT 2520 - Web Dev/Lectures/Lecture 5 - Streams.md",
-    "ACIT 2520 - Web Dev/Untitled.md",
-    "images/Pasted image 20241023155718.png",
-    "Untitled.md",
-    "Python Study List.md",
     "ACIT 2515 - Obj Programming/Test Study",
-    "images/Pasted image 20241023191307.png",
-    "images/Pasted image 20241023171908.png",
-    "images/Pasted image 20241023171836.png",
-    "images/Pasted image 20241023171832.png",
     "ACIT 2420 - Linux/Assignment1/Assets",
     "ACIT 2420 - Linux/Assignment1",
     "ACIT 2520 - Web Dev/Readings",
