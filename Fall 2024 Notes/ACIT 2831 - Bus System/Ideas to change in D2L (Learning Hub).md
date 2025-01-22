@@ -1,0 +1,8 @@
+- accept more types of files for upload/submission 
+	- would be updates for future/new file types later on
+- add a customizable reminder system
+	- should be separate from the update list 
+- faster way to look at older posts from the news section
+	- currently need to just scroll down to find the older post
+- more customizable options for the built in calendar
+	- sort by class, changing view 

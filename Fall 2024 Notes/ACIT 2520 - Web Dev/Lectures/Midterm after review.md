@@ -1,0 +1,10 @@
+- which is needed to create and run a program
+	- both programming language and runtime environment 
+- NodeJS is
+	- a runtime that exists outside the browser
+- always need to convert your values to numbers
+	- argv sends them as strings, not actually numbers until you manually convert it to a number 
+- arrow functions have an implicit return in them when its on one line 
+- always need either .toString() or utf8 to get readable content when we read a file 
+- you can do return new promise when making a promise
+	- make sure that the promise we're making has a callback and that is where we put resolve and reject in to 

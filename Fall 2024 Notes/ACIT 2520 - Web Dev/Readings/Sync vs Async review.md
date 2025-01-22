@@ -1,0 +1,17 @@
+- a sync option means that code will not run until the sync code finishes 
+	- not a big deal when its a small task but it will be a problem for bigger tasks
+	- e.g. making a file with 50,000 words will take a long time and cause issues if we need to wait for it
+- Sync can be bad because even unrelated code still has to wait until the sync  code finishes before it can run
+- synchronous code like `writeFileSync` is called <mark style="background: #ABF7F7A6;">Blocking IO (input output)</mark>
+- other languages use multithreading to solve this issue 
+	- thread is the area where our code is running
+	- multithreading notes that our CPU has multiple threads, so they split up our code 
+	- communication between multiple threads is complicated 
+- nodeJS uses asynchronous callbacks to deal with this issue
+	- e.g. `writeFile("a.txt","name","callback function"`
+	- we can do anything we want in the callback function
+	- asynchronous means that this function will go into the background to finish its task and the rest of the code will keep running
+	- if we have code that relies on the async code, we can put it in the callback function 
+- nodeJS uses <mark style="background: #ABF7F7A6;">Non-Blocking IO</mark>
+	- nodeJS uses only 1 thread 
+- 

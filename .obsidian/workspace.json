@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb0d7a5dc862f1f",
+        "id": "5b3a29897bd39c15",
         "type": "tabs",
         "children": [
           {
-            "id": "106aafeb5e29658f",
+            "id": "6de6929ac68f544a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACIT 2620 - Networking/Lectures/Lecture 11 - Transport, TCP and UDP.md",
+                "file": "ACIT 3896 - Algorithms/Readings/Week 3 Videos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 11 - Transport, TCP and UDP"
+              "title": "Week 3 Videos"
             }
           },
           {
-            "id": "01bf9b9028a25bd1",
+            "id": "1f020685cd242f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACIT 2831 - Bus System/Lectures/Lecture 11 - UML and Use Cases.md",
+                "file": "ACIT 3771 - Project Management/Lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 11 - UML and Use Cases"
+              "title": "Lecture 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,54 +179,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "106aafeb5e29658f",
+  "active": "1f020685cd242f0e",
   "lastOpenFiles": [
-    "ACIT 2831 - Bus System/Lectures/Lecture 10 - Development of Acquisition Strategies.md",
-    "ACIT 2831 - Bus System/Lectures/Week 11 - Business Process Management, Data, and Process Modeling.md",
-    "ACIT 2831 - Bus System/Lectures/Lecture 11 - UML and Use Cases.md",
-    "Interview Observations.md",
-    "COMM 2216/Possible English Assignment Topics.md",
-    "ACIT 2420 - Linux/Lectures/Lecture 13 - Web Servers.md",
-    "images/Pasted image 20241125204540.png",
-    "ACIT 2420 - Linux/Readings/Reading 10 - Load Balancing.md",
-    "ACIT 2420 - Linux/Readings/Reading 10 - Reverse Proxy and Proxy Servers.md",
-    "images/Pasted image 20241125211759.png",
-    "images/Pasted image 20241125211251.png",
-    "images/Pasted image 20241125204547.png",
-    "ACIT 2831 - Bus System/Lectures/Lecture 7 - Midterm Review.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/Models.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/base.html.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/app.py.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/category_detail.html.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/books.html.md",
-    "ACIT 2515 - Obj Programming/Flask Notes/books_detail.html.md",
-    "ACIT 2515 - Obj Programming/Flask Notes",
-    "ACIT 2515 - Obj Programming/Readings/HTTP and REST APIs.md",
-    "ACIT 2515 - Obj Programming/Readings/REST API with Flask.md",
-    "ACIT 2515 - Obj Programming/Readings/Data persistence - database and ORM.md",
-    "ACIT 2515 - Obj Programming/Readings/Web development with Flask.md",
-    "ACIT 2515 - Obj Programming/Readings/Unit Testing and pytest.md",
-    "General To Do List.md",
-    "images/Pasted image 20241122140036.png",
-    "Asset.md",
-    "ACIT 2420 - Linux/Lectures/Lecture 12 - nginx and UFW.md",
-    "ACIT 2620 - Networking/Lectures/Lecture 11 - Transport, TCP and UDP.md",
-    "images/Pasted image 20241122145911.png",
-    "images/Pasted image 20241122145648.png",
-    "images/Pasted image 20241122142405.png",
-    "images/Pasted image 20241122141301.png",
-    "images/Pasted image 20241122140611.png",
-    "ACIT 2620 - Networking/Lectures/Lecture 10 - Dynamic Routing and DHCP.md",
-    "Math 1350/Lectures/Lecture 9 - Hypothesis Testing (One Mean).md",
-    "COMM 2216/Lectures/Untitled",
-    "ACIT 2515 - Obj Programming/Test Study",
-    "ACIT 2420 - Linux/Assignment1/Assets",
-    "ACIT 2420 - Linux/Assignment1",
-    "ACIT 2520 - Web Dev/Readings",
-    "Command Line Basics",
-    "ACIT 2620 - Networking/Readings",
-    "ACIT 2620 - Networking/Lectures",
-    "ACIT 2620 - Networking",
+    "ACIT 3896 - Algorithms/Lectures/Lecture 3.md",
+    "ACIT 3771 - Project Management/Lecture 3.md",
+    "ACIT 3896 - Algorithms/Lab 2.md",
+    "ACIT 3896 - Algorithms/Readings/Week 3 Videos.md",
+    "ACIT 3910 - Database/Readings/Reading 2 - Import Data.md",
+    "Images (Winter 2025)/Pasted image 20250121084119.png",
+    "ACIT 3475 - Web Server/Lectures/Lab 3.md",
+    "ACIT 3475 - Web Server/Lectures/Lecture 3 - HTTP.md",
+    "Images (Winter 2025)/Pasted image 20250121094817.png",
+    "Images (Winter 2025)/Pasted image 20250121094558.png",
+    "Images (Winter 2025)/Pasted image 20250121094526.png",
+    "Images (Winter 2025)/Pasted image 20250121093206.png",
+    "Images (Winter 2025)/Pasted image 20250121092700.png",
+    "Images (Winter 2025)/Pasted image 20250121091148.png",
+    "Images (Winter 2025)/Pasted image 20250121090737.png",
+    "Images (Winter 2025)/Pasted image 20250121085346.png",
+    "pitch.md",
+    "ACIT 3896 - Algorithms/Lectures/Lecture 2.md",
+    "Images (Winter 2025)/Pasted image 20250117135119.png",
+    "ACIT 3640 - Cloud/Lectures/Lecture 1.md",
+    "ACIT 3640 - Cloud/Readings/Regions and CDNs.md",
+    "ACIT 3910 - Database/Lecture/Lab 1.md",
+    "ACIT 3910 - Database/Lecture/Lecture 2.md",
+    "ACIT3420 - Windows Server/Lectures/VMware stuff.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 2.md",
+    "ACIT 3771 - Project Management/Lecture 2.md",
+    "ACIT 3771 - Project Management/Discussions.md",
+    "Fall 2024 Notes/ACIT 2420 - Linux/Assignment1/Readme - lvl 2.md",
+    "Fall 2024 Notes/ACIT 2420 - Linux/Assignment1/Readme - lvl 3.md",
+    "ACIT 3896 - Algorithms/Readings/Week 2 Video 2 - Descriptive Statistics.md",
+    "ACIT 3896 - Algorithms/Readings/Week 2 Video 1 - Logarithms.md",
+    "ACIT 3475 - Web Server/Lectures/Lecture 2 - OSI, Apache, and IIS.md",
+    "ACIT 3475 - Web Server/Lectures/Lecture 1.md",
+    "ACIT 3475 - Web Server/Lectures/ip address.md",
+    "ACIT 3910 - Database/Readings/Reading 1 - Connect and Configure.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 1.md",
+    "ACIT 3910 - Database/Readings",
+    "ACIT 3640 - Cloud/Lectures/Untitled",
+    "ACIT 3640 - Cloud/Readings",
+    "ACIT 3640 - Cloud/Lectures",
+    "ACIT 3640 - Cloud",
+    "ACIT 3910 - Database/Lecture",
+    "ACIT 3910 - Database",
+    "ACIT3420 - Windows Server/Readings",
+    "ACIT3420 - Windows Server/Lectures",
+    "ACIT3420 - Windows Server",
     "Untitled.canvas"
   ]
 }

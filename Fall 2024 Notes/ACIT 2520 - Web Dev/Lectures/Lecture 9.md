@@ -1,0 +1,16 @@
+- file URI scheme
+	- getting files from your own computer (your own home network)
+	- if "host" is omitted, it is taken to be "localhost""(your own computer)
+		- even without host, you still need to keep the slash
+	- `file:///path`
+	- problem: this only allows us to read files off our own computer
+	- solution: `http://`
+- server vs websever
+	- server - the hardware the remote machine is hosted on
+	- web server - the software that is used to send the webpages stored on the server to the users that requested it
+		- we are using nodeJS
+
+- websites are static information
+	- don't change much
+	- e.g. restaurant menu 
+- web apps are dynamic and content is different for every user

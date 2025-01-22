@@ -1,0 +1,62 @@
+### Review Terms
+
+#### projects
+- project definition
+	- a project is an activity with
+		- a discrete beginning
+		- a discrete end
+		- which produces a unique product 
+- project scope
+	- the boundaries, goals, deliverables, and objectives of a project
+	- outlines what the project will achieve and what is included in the work required to deliver those outcomes
+- iron triangle
+	- three project constraints
+		- scope
+		- time
+		- cost
+	- need to maintain "balance"
+	- if one constraint is modified, you need to adjust the other 2 constraints accordingly to balance  
+- scope creep
+	- uncontrolled expansion or changes in a project's scope, often without corresponding increases in time, budget, or resources
+	- could be from bad communication, unclear initial project scope, stakeholder requests
+	- very likely, especially in complex projects 
+	- strain on resources 
+- critical path
+	- chain of tasks that affect the project finish date 
+	- if one task on the critical path is late, it will cause the whole project to be late
+	- has dependencies 
+		- tasks that need to be completed before another can start 
+	- able to identify the most critical tasks that will take the most time
+	- cannot be delayed without affecting the project end date 
+	- these tasks will determine the end date 
+#### "traditional"
+- task dependency
+	- represents the order that tasks need to be performed
+	- a task needs to be completed before you can go to the next task 
+- waterfall
+	- methodology that describes having specific discrete steps in a sequential order
+	- very difficult to go back a step because of the task dependencies 
+- linear 
+	- could also be described like waterfall
+	- when tasks are done in a specific sequential order 
+
+#### agile
+- - scrum
+	- framework based on agile method to help with teamwork
+	- uses sprints that are an iterative period where teams work on tasks 
+- increment
+	- sum of all product backlogs completed during a sprint 
+	- increments are dependent
+		- task 1 needs to be done before task 2 
+- iteration/iterative
+	- process of repeating a set of steps or instructions
+	- iterative means just doing things in iteration
+	- we get an increment at the end of each iteration 
+	- still a linear process because increments are task dependent 
+- timebox
+	- give an activity a fixed amount of time to complete 
+	- we timebox our sprints in agile 
+- backlog
+	- prioritized list of tasks or items that need to be completed
+	- high priority items to be completed first 
+	- like the scope 

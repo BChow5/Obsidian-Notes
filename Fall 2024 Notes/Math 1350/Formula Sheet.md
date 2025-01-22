@@ -1,0 +1,128 @@
+### Graphs and numerical summaries
+- **mean**
+	- ![[Pasted image 20240925230652.png]]
+	- affected by extreme values (outliers)
+- **median**
+	-  **Arrange the data in ascending order**: Sort the numbers from smallest to largest.
+	- **Identify the number of data points (nnn)**: Determine how many numbers are in the dataset.
+	- **Determine if the number of data points is odd or even**:
+		- If **odd**, the median is the middle number.
+		- If **even**, the median is the average of the two middle numbers.
+			- if not a whole number, round up
+- **standard deviation**
+	- - ![[Pasted image 20240920100712.png]]
+	- n = sample size
+	- N = population size 
+	- Xi = the value at the position
+	- Xbar = mean of sample
+		- mean is the same for everyone one once you've calculated it 
+	- mew = mean of population
+- **skewness**
+	- ![[Pasted image 20240920110229.png]]
+		- xbar = mean
+		- xtilda = median
+		- s = standard deviation 
+- **proportions**
+	- ![[Pasted image 20240925222957.png]]
+	-  x = frequency
+	- n = sample or population 
+- **variance**
+	- ![[Pasted image 20240920104634.png]]
+	- specifically, variance in the square of the standard deviation
+- **range = max - min**
+- **IQR = Q3- Q1**
+	- Q1 =  total amount * 25/100 = position
+	- Q3 = total amount * 75/100
+	- if decimal, round up
+	- IQR is not sensitive to extreme values, but it is not using all of the data points 
+
+### Probability and counting 
+- **classical approach**
+	- ![[Pasted image 20240927101754.png]]
+- **relative approach**
+	- ![[Pasted image 20240927101858.png]]
+- **Fundamental Counting Rule**
+	- ![[Pasted image 20240927105257.png]]
+- **Permutations**
+	- ![[Pasted image 20240927105422.png]]
+	- for when order of the item matters and without replacement
+- **Combinations**
+	- ![[Pasted image 20240927105508.png]]
+	- for when order of the item doesn't matter and without replacement
+	- the denominator is for removing overcounting 
+		- this is because we don't care about the order 
+- **choosing 1 from x number of different options** (fundamental counting rule)
+	- multiple the number of options of the pools together
+	- ![[Pasted image 20241003134106.png]]
+
+**Summary** 
+![[Pasted image 20241002204523.png]]
+- **Addition rule - Union Probability** 
+	- P (A u B) = P(A) + P (B) - P(A and b)
+	- if A and B are mutually exclusive then P(A n B) = 0
+	- ![[Pasted image 20241004102105.png]]
+	- the word "or" means its addition rule
+- **Multiplication Rule - Join Probability**
+	- if you see the word "and" then it's multiplication rule 
+	- P (A n B)
+		- P (A | B) x P(B)
+	- **P( A n B) = P(A) x P( B | A)**
+	- ![[Pasted image 20241010195050.png]]
+	- independent events: 
+		- P(A|B) = P(A)
+		- P(A and B) = P(A) x P(B)
+		- ![[Pasted image 20241010200301.png]]
+- **conditional probability** 
+	- ![[Pasted image 20241010195951.png]]
+	- 
+- **Mutually Exclusive Events**
+	- ![[Pasted image 20241010200425.png]]
+- **Complementary Rule**
+	- ![[Pasted image 20241010194353.png]]
+- **at least one problems**
+	- best to use complementary rule 
+	- ![[Pasted image 20241010194707.png]]
+
+### Standard Deviation
+- ![[Pasted image 20241017183406.png]]
+- **x = mu + z * sigma**
+	- mu = mean
+	- sigma = standard deviation
+- **empirical rule**
+	- 65% of x values are within 1 standard deviation of the mean
+	- 95% of x values are within 2 standard deviations of the mean
+	- 99.7% of x values are within 3 standard deviations of the mean
+- **percentile using z score**
+	- e.g. 90th percentile = 0.90 area
+		- so we find the corresponding value for 0.9 on the z score table
+			- you choose the closer value to 0.9 to get your z score
+		- then you calculate x with our other formula
+	- e.g. you want 1% = 0.01 area
+		- so find the z score closest to 0.01
+- **getting values between 2 numbers**
+	- when given X:
+		- calculate the z scores of the 2 numbers the area is between
+		- use the z = (X - mu)/sigma for both 
+		- get the areas for Z1 and z2 off of the chart
+		- subtract z2 area - z1 area 
+- **unusual values**
+	- (-2 <= Z <= 2)
+	- so then you calculate to find X and see
+		- x = mu + z * sigma
+	- if it is greater 2 or less than -2, you have an unusual value
+- **outliers**
+	- IQR = Q3-Q1
+		- Q1 = 25th percentile
+		- Q3 = 75th percentile 
+	- ![[Pasted image 20241017201104.png]]
+		- value of Q1 = mu + z(-0.67) * sigma
+		- value Q3 = mu + z (0.67) * sigma
+	- ![[Pasted image 20241017213523.png]]
+		- 
+	- > Q3 + 1.5IQR (upper limit of outlier)
+	- < Q1 - 1.5IQR (lower limit of outlier)
+	-  if you want to calculate the percentage of people above an upper limit, then you can do:
+		- **1 - area (value at the z score) = area greater than upper limit**
+			- multiply the final answer by 100 if you need that in a percentage answer
+
+![[Pasted image 20241114193942.png]]

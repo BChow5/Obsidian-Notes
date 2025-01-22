@@ -1,0 +1,36 @@
+- 7 questions
+- only first question is on probability
+	- conditional probability 
+	- .e.g. sunny or rainy question with the tree diagram 
+	- e.g. unit 5 practice questions: covid or fire alarm using 2 way table 
+	- need to show if two events are independent or not 
+	- or if they are mutually exclusive or not 
+- Binomial Distribution (unit 7)
+	- need to know if question is talking about binomial distribution
+		- conditions/requirements (3-4 of them)
+			- fixed number of trials
+			- every trial is Bernoulli (only 2 outcomes)
+			- trials need to be independent and identical 
+	- probability  P(X=x): nCx * p^x * (1-p)^n-x
+	- expected outcome: np
+	- variance: np(1-p)
+- Sampling Distribution 
+	- xbar (about sample)
+		- check if its normal
+			- n >= 30 or x is normally distributed 
+	- phat (about sample)
+		- np >=5 and nq >= 5
+- next 4 are about hypothesis testing 
+	- they all follow approx the same steps
+- Q4 - Unit 9
+	- careful on step 1
+	- step 2: z stat or t stat
+- Q5 - Unit 10 
+	- careful on step 1
+	- step 2: z stat or t stat
+- Q6 - Unit 11 
+	- always same h0
+	- h1 just say otherwise 
+- Q7 - Unit 12
+	- always same h0 (independent)
+	- h1 dependent 

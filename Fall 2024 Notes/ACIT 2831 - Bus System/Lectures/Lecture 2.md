@@ -1,0 +1,38 @@
+#### New Vocab
+- data and information
+	- data is raw unprocessed facts
+	- information is when we process data to have meaning 
+- information system
+	- information systems can be viewed as having five major components:
+		- hardware
+		- software
+		- data
+		- people
+		- processes
+	- transform data into information and turn it into knowledge 
+- LMS and CRM
+	- learning management system
+		- platforms for education and training 
+	- customer relations management 
+		- software and strategies for customer relations
+- waterfall or linear development
+	- software development methodology that requires 1 step must be completed before moving onto the next 
+- iterative or agile development\
+	- development of approach where coding is broken into smaller segments
+	- each iteration gathers feedback and takes that into the next iteration 
+- production information system
+	- an information system that is used day to day in an organization 
+		- something that is live and being used, is said to be in production 
+- revenue or "top line"
+	- money a business makes by selling its product or service 
+- profit or "bottom line"
+	- money after taxes and expenses are calculated out 
+- assets (with example) and investments
+	- assets are resources with economic value that someone owns or controls 
+		- e.g. property, equipment, stocks
+- total cost of ownership (TCO)
+	- cost to buy and the cost of operation 
+- return on investment (ROI)
+	-  a financial performance metric used to evaluate the efficiency or profitability of an investment. In simpler terms, ROI helps measure how much return or profit you get for every dollar invested.
+    - ROI = Net Profit / Investment Cost x 100
+- cost benefit analysis (CBA)

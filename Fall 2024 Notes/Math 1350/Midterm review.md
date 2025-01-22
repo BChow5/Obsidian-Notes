@@ -1,0 +1,31 @@
+- 7 questions total but lots of parts
+- Q1 - unit 1: 8 marks; T or F and fill in the blank
+	- population vs sampling frame vs sample 
+	- sampling methods 
+	- errors of inclusions and exclusion; sampling errors 
+	- types of variables 
+		- ratio, interval, nominal, ordinal
+- Q2 - unit 2: 4 marks; fill in the blank
+	- pie chart, bar plot, 
+	- histogram, box plot 
+	- frequencies 
+		- relative frequencies , cumulative, relative cumulative 
+- Q3 - unit 3: 6 marks; short answer
+	- mean, median, mode 
+	- standard deviation, variance, range , IQR
+	- skewness 
+- Q4-6 - unit 4 and 5
+	- probability - 4 marks
+		- classical approach 
+		- permutations, combinations, n^r, etc. 
+		- e.g. unit 4 lecture page 4 
+	- conditional probability - 10 marks 
+		- 2 way table
+			- e.g. covid test question
+	- reliability (prob of failure) 4 marks
+- Q7 - unit 6; 12 marks 
+	- x -> x -> probability and prob -> z -> x 
+		- could be talking about percentiles
+	- unusual values 
+	- outliers 
+		- can have the formula because its consistent 

@@ -1,0 +1,6 @@
+- linear search
+	- looping through every single one
+	- also called exhaustive or brute force 
+- binary search
+	- split in half and check if it's right
+		- otherwise split in half again and keep repeating till you find the answer

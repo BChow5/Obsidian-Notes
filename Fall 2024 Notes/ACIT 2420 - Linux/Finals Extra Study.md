@@ -1,0 +1,40 @@
+### Midterm Question Review
+- "/" for searching in nvim or less 
+- UID 666 is a system user
+- dd to quickly delete in nvim
+- command substitution does not need to call a function specifically 
+- ssh -i is to specify identity file (private key) to use for ssh
+- review how to do for loop for an array
+	- for i in ${arr[@]}; do
+		- echo $i
+- find user aliases in `~/.bashrc`
+- order it checks when command is run: 1. shell function 2. shell built ins 3. commands in the file path
+- PID1 is systemd or service manager 
+- grep "[0-9]{2}" books - finds 0-9 twice (see phone number grep example)
+- you can open more than one file in neovim at a time
+- ? wildcard for a single character 
+	- vs * is wildcard for any length of characters 
+- public key is in `/.shh/authorized-keys` folder
+- review why can't you have spaces in variable declaration 
+
+### Finals Practice Quiz
+- As a regular user write a command that would immediately start the sshd service.
+	- `sudo systemctl start sshd`
+- In which directory is the `mkdir` utility? Write the full path, including the command.
+	- `/usr/bin/mkdir`
+- Which of the following commands can be used to view recent logs and other important information about a systemd service?
+	- `systemctl status <service_name>`
+- Write a command that would add the **sadie** user to the **wheel** group
+	- `sudo usermod -aG wheel sadie`
+- The `/etc/shadow` file contains information about user passwords, including encrypted password hashes.
+	- True
+- After creating a new ssh key pair to secure your GitHub account, which file would you add to your GitHub account?
+	- the public key
+- Which of the following is **not** a common use case for cloud-init?
+	- Encrypting data on disk
+- Which of the below options will quit Vim and Neovim without writing changes in the buffer to a file?
+	- `:q!`
+- You are logged into a server as the user "soji". Assume that your home directory is in the standard location on most Linux OSs. Where is your home directory? Write the full path
+	- `/home/soji`
+- True or False service files need to be executable?
+	- False
