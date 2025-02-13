@@ -1,0 +1,3 @@
+- the call stack 
+	- the order how things get worked out in python
+- 

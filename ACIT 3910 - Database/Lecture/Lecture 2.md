@@ -1,3 +1,2 @@
 - linux is case sensitive for names of tables and databases 
 	- you can change how they behave to case sensitivity 
-- 

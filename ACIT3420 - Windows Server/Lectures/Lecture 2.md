@@ -36,7 +36,7 @@
 - each group also have SID
 
 ### Why upgrade from 2019 to 2022 windows server?
-- sercurity
+- security
 	- lots of improvements to network security
 	- supports TPM 2.0 
 - hybrid cloud 

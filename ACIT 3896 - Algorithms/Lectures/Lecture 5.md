@@ -1,0 +1,7 @@
+- symbolic link
+	- stores a representation of something
+	- a path 
+- hard link
+	- stores a point to an inode 
+	- all files are hard linked 
+	- you can have 2 hard links, and if you delete one, it doesn't get rid of the other one 

@@ -8,6 +8,8 @@
 - load instances using open or scan 
 
 windows OS - KVRFN-YDFJV-P8QKP-CCW4B-VQWWB
+windows client pass: Password
 
 windows server 2022 - JRPN6-TDFT6-CQHYC-F3KHW-2G3VB
 pass: `*Password!`
+other users pass: `*Password!!`
