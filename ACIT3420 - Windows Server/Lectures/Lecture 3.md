@@ -1,5 +1,5 @@
 ### domain service (ADDS)
-- server providing **authentication** and **authorization**
+- service providing **authentication** and **authorization**
 	- authentication - 
 	- authorization - 
 - has a **database** of accounts in it
@@ -9,6 +9,7 @@
 	- domain service
 	- stores your objects (users, computers, groups, printer)
 - what is domain controller?
+	- a server that responds to security authentication requests within a computer network domain
 	- #midtermQ
 
 ### physical component and logical component of ADDS

@@ -4,7 +4,7 @@
 	- The two physical elements of Active Directory are **domain controllers** and **sites**
 	- #midtermQ
 - AD DS stands for Active Directory Domain Services. It's a Microsoft service that helps manage and organize network resources, such as users, computers, and other devices. 
-	- It stores directory data like user accounts, passwords, and permissions, and provides authentication and authorization services to allow secure access to these resources in a domain.
+	- It stores directory data like user accounts, passwords, and permissions, and provides authentication and authorization services to allow secure access to these resources in a domain
 - all domain controllers hold a copy of the domain data base, which is **continually synchronized** 
 - the domain is the context within which user accounts, computer accounts, and groups are created
 - the domain is  **replication boundary**
@@ -92,7 +92,7 @@
 	- Reflects one or more interconnected subnets  
 	- Reflects the physical aspect of the network  
 	- Is used for DC replication  
-	- Is used to enable a client to access the DC that is physically closest  
+	- Is used to enable a client to access the DC that is physically closest 
 	- Is composed of only two types of objects, servers and configuration objects
 - for **replication** 
 	- we want to use a site so that all the servers don't need to talk to each other

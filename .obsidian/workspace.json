@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACIT3420 - Windows Server/Lectures/Lecture 3.md",
+                "file": "ACIT3420 - Windows Server/Lectures/VMware stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3"
+              "title": "VMware stuff"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Lecture 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,31 +179,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1f020685cd242f0e",
+  "active": "6de6929ac68f544a",
   "lastOpenFiles": [
-    "ACIT3420 - Windows Server/Lectures/Lecture 3.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 4.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 6 - Server Storage.md",
+    "Images (Winter 2025)/Pasted image 20250217160550.png",
+    "Images (Winter 2025)/Pasted image 20250217155014.png",
+    "ACIT 3910 - Database/Readings/Reading 7 - Views, Functions, Triggers.md",
+    "ACIT 3640 - Cloud/Lectures/Lecture 1.md",
+    "ACIT 3910 - Database/Lecture/Lab 1.md",
+    "ACIT 3910 - Database/Lecture/Lecture 2.md",
+    "ACIT 3910 - Database/Lecture/Lecture 3.md",
+    "ACIT 3910 - Database/Lecture/Lecture 4.md",
+    "ACIT 3910 - Database/Lecture/Lecture 6.md",
+    "Images (Winter 2025)/Pasted image 20250213135753.png",
+    "Images (Winter 2025)/Pasted image 20250213091453.png",
     "ACIT3420 - Windows Server/Lectures/VMware stuff.md",
+    "Images (Winter 2025)/Pasted image 20250213092448.png",
+    "Images (Winter 2025)/Pasted image 20250213092429.png",
+    "Images (Winter 2025)/Pasted image 20250213092234.png",
+    "Images (Winter 2025)/Pasted image 20250213092224.png",
+    "Images (Winter 2025)/Pasted image 20250213092101.png",
+    "ACIT3420 - Windows Server/Lectures/Lecture 4.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 3.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
     "ACIT 3475 - Web Server/Lectures/Lecture 6 - LAMP and LNMP stacks with WordPress.md",
     "ACIT 3475 - Web Server/Lectures/Lecture 4 - Intro to NGINX.md",
     "Images (Winter 2025)/Pasted image 20250211090644.png",
     "ACIT 3896 - Algorithms/Lectures/Lecture 6.md",
     "ACIT 3896 - Algorithms/Readings/Week 6 Videos.md",
     "ACIT 3896 - Algorithms/Assignment 1 stats fixed.md",
-    "Images (Winter 2025)/Pasted image 20250211090617.png",
-    "Images (Winter 2025)/Pasted image 20250211090552.png",
-    "Images (Winter 2025)/Pasted image 20250211090536.png",
-    "Images (Winter 2025)/Pasted image 20250211085349.png",
-    "Images (Winter 2025)/Pasted image 20250211085253.png",
-    "Images (Winter 2025)/Pasted image 20250211085243.png",
-    "Images (Winter 2025)/Pasted image 20250211085102.png",
-    "Images (Winter 2025)/Pasted image 20250211084926.png",
-    "Images (Winter 2025)/Pasted image 20250211084913.png",
     "ACIT 3910 - Database/Readings/Reading 5.md",
-    "ACIT 3640 - Cloud/Lectures/Lecture 1.md",
-    "ACIT 3910 - Database/Lecture/Lecture 3.md",
-    "ACIT 3910 - Database/Lecture/Lecture 4.md",
     "ACIT 3896 - Algorithms/Readings/Week 4 - Time Complexity and Dunder Methods.md",
     "ACIT 3896 - Algorithms/Lectures/Lecture 5.md",
     "ACIT 3896 - Algorithms/Readings/Week 5 - Video Trees.md",
@@ -212,11 +216,6 @@
     "ACIT 3475 - Web Server/Lectures/Lecture 5 - Nginx modules.md",
     "ACIT 3475 - Web Server/Lectures/Lecture 2 - OSI, Apache, and IIS.md",
     "ACIT 3475 - Web Server/Lectures/Lecture 3 - HTTP.md",
-    "ACIT 3475 - Web Server/Lectures/Lecture 1.md",
-    "Fall 2024 Notes/ACIT 2515 - Obj Programming/Readings/HTTP and REST APIs.md",
-    "ACIT 3475 - Web Server/Lectures/Lab 3.md",
-    "ACIT 3475 - Web Server/Lectures/ip address.md",
-    "ACIT 3896 - Algorithms/Readings/Week 3 Videos.md",
     "Resume iPROGEN Biotech Inc..pdf",
     "ACIT 3910 - Database/Readings",
     "ACIT 3640 - Cloud/Lectures/Untitled",
