@@ -68,4 +68,3 @@
 	- organizational unit
 	- how many you need is based on your company architecture
 		- e.g. how many departments you have 
-- binary tree

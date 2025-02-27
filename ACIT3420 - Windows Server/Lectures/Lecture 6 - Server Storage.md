@@ -154,7 +154,7 @@
 ![[Pasted image 20250213092448.png]]
 
 #### RAID 1 + 0
-- each pair o disks is mirrored and then the mirrored disks are striped
+- each pair of disks is mirrored and then the mirrored disks are striped
 - can improve fault tolerance and read and write performance
 - costly 
 ![[Pasted image 20250213092429.png]]
@@ -204,8 +204,21 @@
 - disadvantages
 	- slower access time
 	- not appropriate in many enterprise scenarios 
+![[Pasted image 20250218213024.png]]
 
 #### Storage Area Network (SAN)
+- enterprise centralized storage solution
+- high availability and max flexibility
+- allows systems to attach to the storage in the SAN and presents the drives to the server as if they were locally attached
+- block level access to centralized storage 
+- advantages
+	- storage can be accessed by multiple server simultaneously with robust and fast processing
+	- easily expandable
+	- centralized storage with high redundancy
+- disadvantage
+	- most expensive
+	- requires specialized admin skills 
+![[Pasted image 20250218213048.png]]
 
 #### Overview comparing storage solutions
 - DAS
@@ -217,4 +230,95 @@
 - SAN
 	- highest level of performance
 	- provides most features
+
+### FC Components
+- components
+	- SAN
+	- physical or virtual system containing an HBA card (FC or iSCSI)
+	- fiber channel switch
+- fiber channel over ethernet (FCoE)
+	- provides benefits of fiber channel in more cost effective manner
+	- easier to manage in single network topology
+	- no specialized training needed
+
+### Comparing storage technology
+- you can arrange data on a disk in two ways: block level or files 
+- **block level storage**
+	- high performance
+	- often associated with SANs
+	- Presents Logical Unit Numbers (LUNs) to the server
+	- not the most cost effective
+- file storage level
+	- delivered via NAS
+	- uses common file level protocols
+	- uses block level storage in backend
+
+### iSCI SAN
+- iSCI is a protocol that supports access to SCSI based storage over standard TCP/IP network (local network but it runs over internet protocol)
+	- typically relies on standard Ethernet network architecture
+	- could use specialized hardware such as HBA or network switches
+	- uses TCP/IP and TCP port 3260 to communicate
+- components
+	- IP network
+	- iSCI targets: servers that run on the storage device 
+	- iSCI initiatiors: software or host adapter that provides access to targets 
+	- IQN: globally unique identifier used to address initiators and targets on an iSCI network
+
+#### iSCI target server
+- available as role in Windows server 2019/2022
+- provides different types of functionality
+	- network or diskless boot
+	- server application storage
+	- non-microsoft platforms
+	- lab environments
+- features
+	- authentication
+	- query initiator computer for ID
+	- virtual hard disks
+	- scalability and manageability 
+
+#### iSCI initiator
+- runs as an operating system service
+- installed by default in windows server 2008 and later
+- only requires the service to be started before configuring the initiator to connect to iSCI target 
+
+### Configuring storage pools and storage spaces
+- storage spaces (virtual disks) is a storage virtualization feature built into Windows server 2019/2022 and Windows 10
+- the storge spaces feature consists of two components:
+	- storage pools are a collection of any type and size of physical disks (JBOD) aggregated **into a single logical disk, allowing you to manage the multiple physical disks as a single disk** 
+	- these **storage pools can then be segmented into multiple storage spaces**, which are then formatted with a file system and can be used just like any other regular disk on your computer 
+- new disks (internal/external) can be added to the storage pool as space requirements can be added to the storage pool as space requirements increase over time 
+![[Pasted image 20250223114258.png]]
+
+### Creating Storage Pools
+- one physical disk is required to create a storage pool
+- at least 2 physical disks are required to create a resiliant, mirrored virtual disk
+- at least 3 physical disks are required to create a virtual disk with resiliency through parity
+- at least 5 physical disks are required for three way mirroring
+- at least 7 physical disks are required for dual parity
+- disk must be blank and unformatted
+	- no volumes can exist on the disks
+- disks can be attached using a variety of bus interfaces including SAS, SATA, SCSI, NVMe, and USB 
+
+### Creating and configuring storage spaces
+- when creating storage spaces, there are four resiliency types to select from (storage layout)
+	- only 3 of them provide real fault tolerance
+	- **simple (no resiliency):** write one copy of your data but doesn't protect against drive failures
+		- requires at **least 1 drive (RAID 0)**
+	- **two way mirror:** write to copies of your data to protect against a single drive failure
+		- requires **at least 2 drives (RAID 1)**
+	- **three way mirror:** writes three copies of your data to protect against two simultaneous drive failures
+		- requires **at least 5 drives**
+	- **parity:** writes data with parity information to protect against single drive failures
+		- requires **at least 3 drives (RAID 5)**
+
+### Considerations for implementing iSCI
+- several factors exist which should be examined prior to the implementation of iSCI
+	- network speed and performance 
+	- high availability
+	- security
+	- infrastructure staff
+	- application teams
+	- vendor information
 	- 
+
