@@ -124,9 +124,8 @@
 		- all domains in a single tree use the same schema for all types of common objects
 		- all domains use the same global catalog 
 	- collections of domains are grouped together in a hierarchical structure and share a common root domain
-- **site**
-	- group of domain controllers 
-	- for replication purpose 
+- **Domains**
+	- Administrative boundaries for users and computers that are stored in a common directory database
 - **ou**
 	- organizational unit
 	- how many you need is based on your company architecture
@@ -279,9 +278,27 @@
 #### External switch
 - connects to VMs to the physical network and the internet
 - allows communication between VMs, the host, and external devices
-- requires a physical network adapter to the hsot
+- requires a physical network adapter to the host
 
+#### Internal Switch
+- An **internal switch** is used to connect virtual machines (VMs) or services within the same host or network without allowing external traffic.
+- Example: In virtualization environments like VMware or Hyper-V, an internal switch allows communication between VMs, but not outside the host system.
 
+#### Private Switch:
+- A **private switch** is used to isolate communication between virtual machines within the same host, without allowing any connection to external networks or the host system.
+- Example: In virtualized environments, a private switch ensures that VMs can only communicate with each other and not with the external network or host.
+
+#### Checkpoint
+- checkpoint is the same as a snapshot 
+	- **standard checkpoint**
+		- create differencing disks, .avhd files, which merge back into the previous checkpoint when the checkpoint is deleted
+		- able to recover open applications
+		- record of your RAM 
+	- **production checkpoint**
+		- created by using VSS and require starting from an offline state
+		- kind of like backup
+		- only takes a photo of your disk 
+	- what is the difference between them? #midtermQ 
 
 ### iSCSI SAN
 - network based storage solution that allows servers to access and manage storage devices over an IP network
@@ -333,7 +350,7 @@
 	- simple
 		- uses free space available on a single disk
 	- spanned
-		- extends a simple volume across m
+		- extends a simple volume across multiple disks
 	- mirrored
 		- duplicates fata from one disk to a second for fault tolerance and redundancy 
 	- striped

@@ -11,18 +11,6 @@
             "id": "6de6929ac68f544a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images (Winter 2025)/Pasted image 20250224161654.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250224161654"
-            }
-          },
-          {
-            "id": "1f020685cd242f0e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "ACIT3420 - Windows Server/midterm.md",
@@ -31,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "midterm"
+            }
+          },
+          {
+            "id": "1f020685cd242f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
             }
           }
         ]
@@ -177,44 +179,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2708f94a96732cdd",
+  "active": "6de6929ac68f544a",
   "lastOpenFiles": [
+    "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
+    "ACIT3420 - Windows Server/Lectures/Lecture 6 - Server Storage.md",
+    "ACIT3420 - Windows Server/midterm.md",
+    "ACIT 3896 - Algorithms/Lectures/midterm review.md",
+    "ACIT 3896 - Algorithms/Lectures/Lecture 9.md",
+    "ACIT 3896 - Algorithms/Readings/Week 7 videos (week 9).md",
+    "ACIT 3896 - Algorithms/Readings/Week 6 Videos.md",
+    "Images (Winter 2025)/Pasted image 20250304093824.png",
+    "ACIT 3475 - Web Server/Lectures/Lecture 9 - SSL and HTTPS.md",
+    "Images (Winter 2025)/Pasted image 20250304093803.png",
+    "Images (Winter 2025)/Pasted image 20250304093743.png",
+    "Images (Winter 2025)/Pasted image 20250304093002.png",
+    "Images (Winter 2025)/Pasted image 20250304092816.png",
+    "Images (Winter 2025)/Pasted image 20250304092157.png",
+    "Images (Winter 2025)/Pasted image 20250304092144.png",
+    "Images (Winter 2025)/Pasted image 20250304092124.png",
+    "Images (Winter 2025)/Pasted image 20250304091509.png",
+    "Images (Winter 2025)/Pasted image 20250304091449.png",
+    "ACIT 3896 - Algorithms/Readings/Week 5 - Video Trees.md",
+    "ACIT 3896 - Algorithms/Readings/Week 4 Video.md",
+    "ACIT 3896 - Algorithms/Readings/Week 4 - Time Complexity and Dunder Methods.md",
+    "ACIT 3896 - Algorithms/Readings/Week 3 Videos.md",
+    "ACIT 3896 - Algorithms/Readings/Week 2 Video 2 - Descriptive Statistics.md",
+    "ACIT 3896 - Algorithms/Readings/Week 2 Video 1 - Logarithms.md",
     "ACIT 3910 - Database/Midterm.md",
     "ACIT 3910 - Database/Lecture/Lecture 6.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
-    "ACIT3420 - Windows Server/midterm.md",
     "ACIT3420 - Windows Server/Lectures/Lecture 4.md",
     "ACIT3420 - Windows Server/Lectures/Lecture 3.md",
     "ACIT3420 - Windows Server/Lectures/Lecture 2.md",
     "ACIT3420 - Windows Server/Lectures/VMware stuff.md",
     "ACIT3420 - Windows Server/Lectures/Lecture 1.md",
-    "Images (Winter 2025)/Pasted image 20250224161654.png",
-    "Images (Winter 2025)/Pasted image 20250224155801.png",
-    "Images (Winter 2025)/Pasted image 20250224155134.png",
-    "Images (Winter 2025)/Pasted image 20250224154217.png",
-    "Images (Winter 2025)/Pasted image 20250224154152.png",
-    "Images (Winter 2025)/Pasted image 20250224153949.png",
-    "Images (Winter 2025)/Pasted image 20250224153821.png",
-    "Images (Winter 2025)/Pasted image 20250224153759.png",
-    "ACIT3420 - Windows Server/Lectures/Lecture 6 - Server Storage.md",
     "ACIT 3896 - Algorithms/Lectures/Lecture 5.md",
     "ACIT3420 - Windows Server/Midterm.md",
-    "Images (Winter 2025)/Pasted image 20250223114258.png",
     "ACIT 3640 - Cloud/Lectures/Lecture 1.md",
     "ACIT 3910 - Database/Lecture/Lab 1.md",
-    "Images (Winter 2025)/Pasted image 20250218213048.png",
-    "ACIT 3896 - Algorithms/Lectures/midterm review.md",
-    "ACIT 3896 - Algorithms/Readings/Week 6 Videos.md",
     "ACIT 3896 - Algorithms/Lectures/Lecture 6.md",
-    "ACIT 3896 - Algorithms/Readings/Week 5 - Video Trees.md",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 4.md",
-    "ACIT 3896 - Algorithms/Readings/Week 4 - Time Complexity and Dunder Methods.md",
-    "ACIT 3896 - Algorithms/Readings/Week 4 Video.md",
-    "ACIT 3896 - Algorithms/Readings/Week 3 Videos.md",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 3.md",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 2.md",
-    "ACIT 3896 - Algorithms/Readings/Week 2 Video 1 - Logarithms.md",
-    "ACIT 3896 - Algorithms/Readings/Week 2 Video 2 - Descriptive Statistics.md",
     "Resume iPROGEN Biotech Inc..pdf",
     "ACIT 3910 - Database/Readings",
     "ACIT 3640 - Cloud/Lectures/Untitled",

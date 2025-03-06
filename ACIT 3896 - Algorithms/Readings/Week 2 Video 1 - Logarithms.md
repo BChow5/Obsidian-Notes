@@ -19,7 +19,7 @@ e.g. 3
 - when you change base, you just need to multiply it by some number
 	- the ratio is the same for all of them 
 - on a calculator, ln is log natural 
-	- this gives you log base e
+	- this gives yo u log base e
 - log<sub>b</sub>x = log<sub>q</sub>x
 	- we need the scale factor to convert b to q 
 	- we can get it with just **log<sub>q</sub>x/log<sub>q</sub>b to get the scale factor**
