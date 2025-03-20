@@ -1,0 +1,10 @@
+- selection sort - O(n^2)
+	- finds the smallest value
+	- puts it at the front of the "zone of chaos" then adds that to "zone of order"
+	- repeat and continually grow the "zone of order"
+- insertion sort - O(n^2)
+	- pick a random number
+	- check if its larger than the largest thing in the "zone of order"
+		- if so, then put it at the top
+	- if not, check if its bigger than the next one
+	- like sorting cards in your hands into the right order 
