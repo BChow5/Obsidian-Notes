@@ -1,4 +1,4 @@
-### Windows Server Licenses
+ ### Windows Server Licenses
 #### Difference between standard, essential, data center windows server 2022
 - **essential**
 	- small business

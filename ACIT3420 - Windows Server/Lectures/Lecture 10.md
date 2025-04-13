@@ -1,4 +1,7 @@
 ### Quiz stuff
+- what is DNS? Why do we need it?
+	- **Domain Name System (DNS)** is a naming service that is used by the TCP/IP network and is an essential service used by the Internet. Every time a user accesses a web page, the user must type a URL
+	- client use DNS to retrieve the IP addresses of the web server by translating domain names
 - primary vs secondary vs stub zone
 	- primary DNS zone
 		- read/write copy of a DNS database (Authority DNS)
@@ -13,9 +16,23 @@
 	- stub
 		- copy of a zone that contains only records used to locate name servers (redirects the requests to a server that can answer it)
 		- subset of records: glue host (A) records, Start of Authority (SOA), Name Server (NS) records 
+	- AD Integrate Zone
+		- zone data is stored in AD DS rather than zone files
+		- only available on domain controllers
+		- high availability and redundancy
+		- harder to restore in a disaster 
+- dns records
+	- host 
+		- A for ipv4
+		- AAAA for ipv6
+	- mail exchange (MX)
+	- service record (SRV)
+	- name server (NS)
+	- alias (CNAME)
 - top level domain
 	- a Top Level Domain is the last part of a domain name in a web address after the .
 	- highest level in the hierarchal domain 
+		- e.g. .com
 - second level domain
 	- part of the domain name that is on the left of the .
 	- e.g. like google
