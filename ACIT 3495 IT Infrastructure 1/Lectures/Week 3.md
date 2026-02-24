@@ -1,0 +1,28 @@
+- we rarely stop and start containers
+	- not really the use case for docker containers
+	- designed to be replaceable 
+	- containers are stateless
+- docker volumes to create stateful containers
+	- its just a folder that contains some data
+	- the life cycle of the container is not tied to the life cycle of the folder
+- if you link the container to the same folder/data then you still have it in your new one
+- `docker volume ls`
+	- shows all volumes
+- `docker volume inspect`
+	- shows more info on a volume 
+- `docker run -it -v vol2:/dir1 ubuntu`
+	- runs a container with the volume connected dir1
+	- so things we put in dir1 will persist because they're now in vol2
+- `docker network`
+	- allows containers to **talk to each other, to the host, and to the outside world**—in a controlled, isolated way
+	- Docker networks:
+		- Connect containers to each other
+		- Isolate containers from other containers
+		- Control how containers access the internet
+		- Provide **automatic DNS and service discovery**
+		- Manage port exposure between host ↔ container
+	- `docker create network`
+		- by default it is a bridge network because we didn't specify the driver
+	- how to test if 2 containers are under the same network?
+		- they should be able to ping each other
+	- `docker run -it --name c1 --network network11 ubuntu`

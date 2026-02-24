@@ -174,7 +174,7 @@
 - direct attaches storage
 - available in nearly every server
 - advantages
-	- each to configure
+	- easy to configure
 	- inexpensive
 		- no network devices, hubs, switches, or routers 
 - disadvantages
@@ -187,14 +187,6 @@
 - enterprise centralized storage solution
 	- provides high availability and maximum flexibility 
 - allows systems to attach to the storage in the SAN and presents the drives to the server just as if the drives were locally attaches
-- advantages:
-	- storage can be accessed by multiple servers simultaneously with more robust and faster processing
-	- easily expandable
-	- centralized storage with high levels of redundancy
-		- lots of redundancy due to multiple network devices
-- disadvantages
-	- most expensive solution
-	- requires specialized admin skills 
 
 #### NAS
 - network attaches storage

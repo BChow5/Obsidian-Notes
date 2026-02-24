@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3a29897bd39c15",
+        "id": "be7888ea620faa02",
         "type": "tabs",
         "children": [
           {
-            "id": "6de6929ac68f544a",
+            "id": "1c3577b7d56e43c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACIT3420 - Windows Server/Finals Notes.md",
+                "file": "ACIT4850 - Enterprise Systems Integration/Midterm Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finals Notes"
-            }
-          },
-          {
-            "id": "af1ddb2e22e5dcc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACIT3420 - Windows Server/Lectures/Lecture 12 -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 12 -"
+              "title": "Midterm Review"
             }
           }
         ]
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4ecbf8ebfef5a50d",
@@ -171,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,54 +166,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6de6929ac68f544a",
+  "active": "1c3577b7d56e43c8",
   "lastOpenFiles": [
-    "ACIT3420 - Windows Server/Lectures/Lecture 12 -.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 13 - Docker.md",
-    "ACIT3420 - Windows Server/Finals Notes.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 11 - Group Policy GPO.md",
-    "ACIT3420 - Windows Server/midterm.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 9 - DNS.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 10.md",
-    "ACIT 3896 - Algorithms/Readings/Week 7 videos (week 9).md",
-    "ACIT 3896 - Algorithms/Readings/Week 10 videos.md",
-    "ACIT 3896 - Algorithms/Readings/Week 11 Videos.md",
-    "ACIT 3896 - Algorithms/finals review.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 4.md",
-    "ACIT3420 - Windows Server/Lectures/Lecture 5.md",
-    "ACIT 3771 - Project Management/Videos for paper.md",
-    "ACIT 3771 - Project Management/Finals Review.md",
-    "ACIT 3896 - Algorithms/Readings/Week 12 Videos - Quicksorts.md",
-    "ACIT 3896 - Algorithms/Readings/Week 9 videos - Recursion.md",
-    "ACIT 3910 - Database/Finals.md",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 13.md",
-    "ACIT 3475 - Web Server/Lectures/Lecture 13 - CDNs and SPoF.md",
-    "Images (Winter 2025)/Pasted image 20250331194026.png",
-    "Images (Winter 2025)/Pasted image 20250331201249.png",
-    "Images (Winter 2025)/Pasted image 20250331201232.png",
-    "Images (Winter 2025)/Pasted image 20250331195117.png",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 12.md",
-    "ACIT 3896 - Algorithms/Lectures/Lecture 11.md",
-    "ACIT 3475 - Web Server/Lectures/Lecture 12 - Performance and Load Balancer.md",
-    "ACIT3420 - Windows Server/Lectures/VMware stuff.md",
-    "ACIT 3640 - Cloud/Lectures/Lecture 1.md",
-    "Images (Winter 2025)/Pasted image 20250320095924.png",
-    "ACIT 3896 - Algorithms/Readings/Week 2 Video 1 - Logarithms.md",
-    "Images (Winter 2025)/Pasted image 20250318100402.png",
-    "Images (Winter 2025)/Pasted image 20250318095905.png",
-    "Images (Winter 2025)/Pasted image 20250318095852.png",
-    "Images (Winter 2025)/Pasted image 20250318095845.png",
-    "Images (Winter 2025)/Pasted image 20250318095824.png",
-    "Resume iPROGEN Biotech Inc..pdf",
-    "ACIT 3910 - Database/Readings",
-    "ACIT 3640 - Cloud/Lectures/Untitled",
-    "ACIT 3640 - Cloud/Readings",
-    "ACIT 3640 - Cloud/Lectures",
-    "ACIT 3640 - Cloud",
-    "ACIT 3910 - Database/Lecture",
-    "ACIT 3910 - Database",
-    "ACIT3420 - Windows Server/Readings",
-    "ACIT3420 - Windows Server/Lectures",
+    "ACIT 4630 Information Assurance/Midterm Review.md",
+    "Pasted image 20260220193105.png",
+    "ACIT 4630 Information Assurance/Lectures/Week 2.md",
+    "ACIT 4880 Data Analytics/Readings/Chapter 4.md",
+    "Pasted image 20260218194711.png",
+    "ACIT4850 - Enterprise Systems Integration/Midterm Review.md",
+    "ACIT4850 - Enterprise Systems Integration/Week 6.md",
+    "ACIT4850 - Enterprise Systems Integration/Lesson 2.md",
+    "ACIT 4880 Data Analytics/Readings/Chapter 3.md",
+    "ACIT 4880 Data Analytics/Readings/Chapter 2.md",
+    "ACIT 4880 Data Analytics/Lectures/Week 2.md",
+    "ACIT 4880 Data Analytics/Lab 1.md",
+    "Images (Spring 2026)/Pasted image 20260203140118.png",
+    "ACIT 4630 Information Assurance/Lectures/Week 6.md",
+    "Images (Spring 2026)/Pasted image 20260213094500.png",
+    "Images (Spring 2026)/Pasted image 20260213092243.png",
+    "ACIT 3495 IT Infrastructure 1/Lectures/Week 5.md",
+    "ACIT 3495 IT Infrastructure 1/Lectures/Week 6.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Readings/Week 4 flipped.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Test 1 Review.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Readings/Week 1 Flipped.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Readings/Week 2 flipped.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Readings/Week 1.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Lessons/Week 5.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Lessons/week 4.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Lessons/Week 3.md",
+    "ACIT 4640 - IT System and Networking Provisioning/Lessons/Week 2.md",
+    "ACIT 3495 IT Infrastructure 1/Lectures/Week 3.md",
+    "ACIT 3495 IT Infrastructure 1/Lectures/Week 2.md",
+    "ACIT 3495 IT Infrastructure 1/Lectures/Week 4.md",
+    "Images (Spring 2026)/Pasted image 20260204124049.png",
+    "Images (Spring 2026)/Pasted image 20260204124012.png",
+    "Images (Spring 2026)/Pasted image 20260204123724.png",
+    "Images (Spring 2026)/Pasted image 20260203140611.png",
+    "Images (Spring 2026)/Pasted image 20260203140606.png",
+    "Images (Spring 2026)",
+    "ACIT 4880 Data Analytics/Readings",
+    "ACIT 4880 Data Analytics/Lectures",
+    "ACIT 3495 IT Infrastructure 1/Readings",
+    "ACIT 3495 IT Infrastructure 1/Lectures",
+    "ACIT 3495 IT Infrastructure 1",
+    "ACIT 4630 Information Assurance/Lectures",
+    "ACIT 4630 Information Assurance/Readings",
+    "ACIT 4630 Information Assurance",
+    "ACIT 4880 Data Analytics",
     "Untitled.canvas"
   ]
 }
