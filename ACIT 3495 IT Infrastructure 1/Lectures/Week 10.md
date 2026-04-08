@@ -1,0 +1,12 @@
+- Deployment
+	- ReplicaSet
+		- Pods 
+
+- replicasets guarantees the desired state
+- deployment makes the replica set then it makes the pods 
+- there are deployment strategies
+- deployment with rolling update
+	- it slowly replaces the pods 1 by 1 when doing the update
+	- and then you can tell it how many pods you should always have up while it's updating them
+- pay attention to name of files, name of objects, and name of labels
+	- makes a big difference if you have the same label or not for different deployments

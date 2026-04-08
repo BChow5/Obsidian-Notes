@@ -1,0 +1,14 @@
+### Quiz
+- what is terraform state, why is it important?
+	- list of resources made by terraform
+	- 
+- where is the default location that terraform stores state. File name and location of this file in a terraform project
+	- terraform.tfstate
+	- terraform module 
+- T or F terraform variables are constant
+	- True 
+- what does it mean that Terraform is declarative
+	- you tell it the desired end state and it will make it to get there
+- what is terraform provider
+	- plugins providing access to API like AWS
+- 
